@@ -23,7 +23,7 @@ size_t count_nodes(const binary_tree_t *tree, size_t node_count)
 }
 
 /**
- * binary_tree_leaves - returns the number of nodes of the binary tree
+ * binary_tree_nodes - returns the number of nodes of the binary tree
  * @tree: root node of the tree
  * Return: the number of nodes in the tree
  */
