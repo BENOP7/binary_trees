@@ -1,5 +1,9 @@
 #include "binary_trees.h"
 
+/**
+ * binary_tree_delete - delete the binary tree
+ * @tree: the tree to be deleted
+ */
 void binary_tree_delete(binary_tree_t *tree)
 {
 	if (tree == NULL)
